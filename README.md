@@ -1,5 +1,5 @@
 **Integrantes**
-- Nina Suyo Diego Clauidio
+- Nina Suyo Diego Claudio
 - Garcia Apaza Alan Jorge
 
 fecha: 24/10/2025
